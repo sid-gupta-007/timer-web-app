@@ -14,3 +14,10 @@ Technologies Used:
   HTML5,
   CSS3,
   Vanilla JavaScript (no libraries),
+
+
+📢 Notes:
+Allow browser notifications when prompted for a complete experience.
+Works on modern browsers like Chrome, Edge, and Firefox.
+
+
